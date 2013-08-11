@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Time0</key>
+	<dict>
+		<key>type</key>
+		<string>0</string>
+		<key>positionX</key>
+		<string>100</string>
+		<key>positionY</key>
+		<string>100</string>
+		<key>duration</key>
+		<string>0</string>
+	</dict>
+	<key>Time1</key>
+	<dict>
+		<key>type</key>
+		<string>0</string>
+		<key>positionX</key>
+		<string>200</string>
+		<key>positionY</key>
+		<string>130</string>
+		<key>duration</key>
+		<string>0</string>
+	</dict>
+	<key>Time2</key>
+	<dict>
+		<key>type</key>
+		<string>-1</string>
+		<key>positionX</key>
+		<string>-1</string>
+		<key>positionY</key>
+		<string>-1</string>
+		<key>duration</key>
+		<string>-1</string>
+	</dict>
+</dict>
+</plist>
